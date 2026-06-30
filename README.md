@@ -1,8 +1,10 @@
-# Identidad de marca — Design Book
+# Diseño y animación 3D — Cowboys
 
-Manual completo de identidad visual de una marca: logotipo, paleta de color, tipografía, guías de uso y mockups. Diseño gráfico profesional documentado de principio a fin.
+Diseño de personajes cyborg-cowboy de principio a fin: identidad visual (**Design Book**), diseño de personajes, modelado, texturizado, rigging y animación 3D de personajes y escenas. Asignatura de Diseño Gráfico (DIGRAF) — UPV.
 
-**Tecnologías:** Diseño gráfico · Branding · Illustrator
+**Tecnologías:** Blender · GIMP · Illustrator
+
+> Nota: los ficheros 3D pesados (`.blend`) y los vídeos no están subidos por el límite de tamaño de GitHub; disponibles bajo petición.
 
 ---
 
